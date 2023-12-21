@@ -495,7 +495,7 @@ section {
 .hero {
   width: 100%;
   min-height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/AR0003054_2.jpg") top center;
   background-size: cover;
   position: relative;
   padding: 120px 0;
@@ -506,7 +506,7 @@ section {
   .hero:after {
     position: absolute;
     content: "";
-    width: 40%;
+    width: 39%;
     background: var(--color-secondary);
     top: 0;
     bottom: 0;
@@ -761,7 +761,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action {
-  background: linear-gradient(rgba(27, 47, 69, 0.8), rgba(27, 47, 69, 0.8)), url("../img/cta-bg.jpg") center center;
+  background: linear-gradient(rgba(27, 47, 69, 0.8), rgba(27, 47, 69, 0.8)), url("../img/content-image-1555664241582.jpg") center center;
   background-size: cover;
   padding: 100px 0;
 }
